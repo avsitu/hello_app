@@ -1,1 +1,1 @@
-this is a readme file
+learning Ruby on Rails - work in progress
